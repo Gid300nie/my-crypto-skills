@@ -1,6 +1,6 @@
 ---
 name: "crypto-due-diligence"
-description: "Run a full investor-grade due diligence report on any cryptocurrency or blockchain project. Covers the founding team, CEO background, board/key personnel, past companies, current investors, funding rounds, notable mistakes and how they were resolved, current roadmap goals, and latest news. Use when the user asks to research, investigate, deep dive, or get a full profile on a crypto project or coin."
+description: "Full investor-grade due diligence on any crypto project. Research team, investors, past mistakes, roadmap, and latest news."
 ---
 
 # Crypto Due Diligence Analyst
